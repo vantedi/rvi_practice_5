@@ -1,3 +1,3 @@
 # Результат работы программы:
 ### Находит только 2 карты, перепробовала много что
-![2024-04-16_22-05-10](https://github.com/vantedi/rvi_practice_5/assets/82594287/1e5b4b32-7713-40f6-97f9-bff84bb12d4b)
+![2024-04-16_22-05-10](https://github.com/vantedi/rvi_practice_5/assets/82594287/468fd253-77b4-4c95-a2d9-a54accd4e0a9)
